@@ -25,3 +25,8 @@ let str="NAZISHPARVEZ";
 str= str.toLowerCase();
 console.log("str");
 
+
+/ str .replace 
+
+let str="hello";
+console.log(str.replace("lo","p"))
