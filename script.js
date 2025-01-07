@@ -18,3 +18,10 @@ for(let i=0; i<50; i++ ){
 
     
 }
+
+str.toLowerCase
+
+let str="NAZISHPARVEZ";
+str= str.toLowerCase();
+console.log("str");
+
