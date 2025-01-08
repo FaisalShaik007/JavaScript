@@ -30,3 +30,10 @@ console.log("str");
 
 let str="hello";
 console.log(str.replace("lo","p"))
+
+
+
+
+string0123456789 in slice 
+let str="7075577561";
+console.log(str.slice(1,5));
