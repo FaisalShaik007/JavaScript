@@ -49,3 +49,10 @@ console.log(str.replace("lo","p"));
 str charAt
 let str="ilovetu";
 console.log(str.charAt(6));
+
+
+
+
+string0123456789 in slice 
+let str="7075577561";
+console.log(str.slice(1,5));
