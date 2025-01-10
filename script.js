@@ -56,3 +56,12 @@ console.log(str.charAt(6));
 string0123456789 in slice 
 let str="7075577561";
 console.log(str.slice(1,5));
+
+
+
+str charAt
+let str="ilovetu";
+console.log(str.charAt(6));
+
+let specialstring=`this is a garden template literals ${6+6+1}`;
+console.log(specialstring);
