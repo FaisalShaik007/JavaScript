@@ -63,3 +63,9 @@ let specialstring=`this is a garden template literals ${6+6+1}`;
 console.log(specialstring);
 
 
+str charAt
+let str="ilovetu";
+console.log(str.charAt(6));
+
+
+
