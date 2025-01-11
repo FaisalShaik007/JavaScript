@@ -72,3 +72,8 @@ for (let i=0; i<=5; i++){
     sum=sum+i;
 }
 
+//promise 
+let promise = new Promise((resolve, reject)=>{
+    console.log("my name is Faisal Shaik");
+    reject
+    });
