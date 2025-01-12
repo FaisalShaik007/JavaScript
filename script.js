@@ -92,3 +92,12 @@ for(let i=4; i<=6; i++ ){
 
     
 }
+
+while loop 
+let i=1;
+while (i<=1000) {
+     console.log("shaik faisal ");
+     i++;
+     
+     
+}
