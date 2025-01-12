@@ -83,5 +83,12 @@ let promise = new Promise((resolve, reject)=>{
 for(let i=0; i<50; i++ ){
      console.log("i=",i);
 
+    }
+
+
+
+for(let i=4; i<=6; i++ ){
+    console.log("i=",i);
+
     
 }
