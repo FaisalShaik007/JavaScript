@@ -77,3 +77,11 @@ let promise = new Promise((resolve, reject)=>{
     console.log("my name is Faisal Shaik");
     reject
     });
+
+
+/ print 1 to 5
+for(let i=0; i<50; i++ ){
+     console.log("i=",i);
+
+    
+}
