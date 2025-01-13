@@ -120,3 +120,13 @@ for(let i of str ){
      console.log("i",i);
      
 }
+
+for-of loop 
+let str="JavaScript";
+
+for (let i of str) {
+ 
+     console.log("i",i);
+     
+     
+}
