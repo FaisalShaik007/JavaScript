@@ -101,3 +101,14 @@ while (i<=1000) {
      
      
 }
+
+
+do while loop
+let i=20;
+do {
+     
+     console.log("shaik Faisal");
+     i++;     
+} while (i<=10);
+
+
