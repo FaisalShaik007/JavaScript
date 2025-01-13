@@ -130,3 +130,10 @@ for (let i of str) {
      
      
 }
+
+let str="dilawarSharief";
+for (let i of str ) {
+     
+     console.log("i",i);
+     
+}
