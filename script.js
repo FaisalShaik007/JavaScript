@@ -112,3 +112,11 @@ do {
 } while (i<=10);
 
 
+for-of loop 
+let str ="ShaikFaisal";
+
+for(let i of str ){
+     // iterator->characters
+     console.log("i",i);
+     
+}
