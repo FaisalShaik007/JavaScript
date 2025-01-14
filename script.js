@@ -137,3 +137,12 @@ for (let i of str ) {
      console.log("i",i);
      
 }
+
+
+/ // for loop
+let=1;
+for (let i = 5; i<=30 ;i++) {
+console.log("i",i);
+
+     
+}
