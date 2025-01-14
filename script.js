@@ -146,3 +146,12 @@ console.log("i",i);
 
      
 }
+
+
+do while loop
+let i=1;
+do {
+     console.log("shaik faisal");
+     i++;
+     
+} while (i<=10);
