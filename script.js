@@ -162,3 +162,7 @@ do {
      i++;
      
 } while (i<=10);
+
+
+
+// for-of loop
