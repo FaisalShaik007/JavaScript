@@ -155,3 +155,10 @@ do {
      i++;
      
 } while (i<=10);
+
+let i=5;
+do {
+     console.log("nazish");
+     i++;
+     
+} while (i<=10);
