@@ -173,3 +173,13 @@ for (let i of str) {
      size++;
 }
 console.log("string size=",size);
+
+
+
+
+for-of loop 
+let str="dilawarparvezfaisalnoor";
+let size=0;
+for (let i of str ) {
+     console.log("i",i);
+     size++;
