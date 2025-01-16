@@ -185,3 +185,16 @@ for (let i of str ) {
      size++;
 }
 console.log("string size=",size);
+
+
+
+for-of loop 
+
+let str="fasial"
+let size=0;
+for (let val of str) {
+    console.log("i",i);
+    size++;
+    
+}
+console.log("string size= ", size );
