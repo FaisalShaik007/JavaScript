@@ -208,3 +208,12 @@ for (let i of str) {
 
 }
 console.log("string size= ", size );
+
+
+
+let=1;
+for (let i = 0; i<= ;i++) {
+console.log("i",i);
+
+     
+}
