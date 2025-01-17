@@ -223,3 +223,6 @@ console.log("i",i);
 Template Literals
 let specialstring=`This is a template literal ${2+2+1}`;
     console.log(specialstring);
+
+ let specialstring=`this is a bom template literal ${5+5+5}`;
+    console.log(specialstring);
