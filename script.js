@@ -34,6 +34,8 @@ console.log(str.replace("lo","p"))
 
 
 
+
+
 string0123456789 in slice 
 let str="7075577561";
 console.log(str.slice(1,5));
@@ -217,3 +219,7 @@ console.log("i",i);
 
      
 }
+
+Template Literals
+let specialstring=`This is a template literal ${2+2+1}`;
+    console.log(specialstring);
