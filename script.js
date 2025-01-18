@@ -232,3 +232,9 @@ let specialstring=`This is a template literal ${2+2+1}`;
 let specialstring=`this is a faisal we lanching a rocket template literal ${20+20+10}`;
     console.log(specialstring);
     
+
+
+Strings 
+let str="FaisalShaik";
+
+console.log(str[10]);
