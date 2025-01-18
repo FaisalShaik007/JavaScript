@@ -238,3 +238,7 @@ Strings
 let str="FaisalShaik";
 
 console.log(str[10]);
+
+
+let str="s.nazishParvez"
+console.log(str[7]);
