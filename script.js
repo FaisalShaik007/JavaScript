@@ -245,3 +245,6 @@ console.log(str[7]);
 
 
 Strings in Js str.toUpperCase 
+
+let str="faisalshaik";
+str= str.toUpperCase();
