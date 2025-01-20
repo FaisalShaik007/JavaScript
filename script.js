@@ -244,4 +244,4 @@ let str="s.nazishParvez"
 console.log(str[7]);
 
 
-// Strings in Js str.toUpperCase 
+Strings in Js str.toUpperCase 
