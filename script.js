@@ -248,3 +248,5 @@ Strings in Js str.toUpperCase
 
 let str="faisalshaik";
 str= str.toUpperCase();
+
+// str.toLowerCase
