@@ -254,3 +254,6 @@ str.toLowerCase
 let str="NAZISHPARVEZ";
 str= str.toLowerCase();
 console.log("str");
+
+
+// String in str.trim
