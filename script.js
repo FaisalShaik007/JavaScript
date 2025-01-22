@@ -258,6 +258,6 @@ console.log("str");
 
 String in str.trim
 
-// let str= "       a faisal is aa   agood  boy    ";
-// console.log(str.trim());
+let str= "       a faisal is aa   agood  boy    ";
+console.log(str.trim());
 
