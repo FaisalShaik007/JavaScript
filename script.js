@@ -263,4 +263,4 @@ console.log(str.trim());
 
 
 
-// string0123456789 in slice 
+string0123456789 in slice 
