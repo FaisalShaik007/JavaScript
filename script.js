@@ -261,3 +261,6 @@ String in str.trim
 let str= "       a faisal is aa   agood  boy    ";
 console.log(str.trim());
 
+
+
+// string0123456789 in slice 
