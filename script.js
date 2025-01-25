@@ -274,3 +274,6 @@ let str="hello";
 console.log(str.replace("lo","p"));
 
 str charAt
+// let str="ilovetu";
+// console.log(str.charAt(6));
+
