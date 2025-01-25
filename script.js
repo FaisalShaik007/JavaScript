@@ -270,3 +270,6 @@ console.log(str.slice(1,5));
 
 
 str .replace 
+// let str="hello";
+// console.log(str.replace("lo","p"));
+
