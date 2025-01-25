@@ -269,4 +269,4 @@ console.log(str.slice(1,5));
 
 
 
-// str .replace 
+str .replace 
