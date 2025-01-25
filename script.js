@@ -273,3 +273,4 @@ str .replace
 let str="hello";
 console.log(str.replace("lo","p"));
 
+// str charAt
