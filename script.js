@@ -266,3 +266,7 @@ console.log(str.trim());
 string0123456789 in slice 
 let str="7075577561";
 console.log(str.slice(1,5));
+
+
+
+// str .replace 
