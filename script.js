@@ -277,3 +277,12 @@ str charAt
 let str="ilovetu";
 console.log(str.charAt(6));
 
+
+
+
+
+let promise = new Promise((resolve, reject)=>{
+    console.log("my name is Faisal Shaik");
+    reject
+    // });
+
