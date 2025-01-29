@@ -286,3 +286,10 @@ let promise = new Promise((resolve, reject)=>{
     reject
     });
 
+
+
+// str.toLowerCase
+
+// let str="NAZISHPARVEZ";
+// str= str.toLowerCase();
+// console.log("str");
