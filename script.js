@@ -288,8 +288,8 @@ let promise = new Promise((resolve, reject)=>{
 
 
 
-// str.toLowerCase
+str.toLowerCase
 
-// let str="NAZISHPARVEZ";
-// str= str.toLowerCase();
-// console.log("str");
+let str="NAZISHPARVEZ";
+str= str.toLowerCase();
+console.log("str");
