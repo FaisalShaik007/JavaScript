@@ -295,4 +295,5 @@ str= str.toLowerCase();
 console.log("str");
 
 
-syncs
+syncs means one after the other 
+console.log("one")
