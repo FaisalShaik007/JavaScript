@@ -296,4 +296,5 @@ console.log("str");
 
 
 syncs means one after the other 
-console.log("one")
+console.log("one");
+console.log("two");
