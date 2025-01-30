@@ -294,3 +294,5 @@ let str="NAZISHPARVEZ";
 str= str.toLowerCase();
 console.log("str");
 
+
+syncs
