@@ -299,3 +299,13 @@ syncs means one after the other
 console.log("one");
 console.log("two");
 console.log("third");
+
+
+
+// set Timeout function & async
+// function hello() {
+//     console.log("hello");
+
+    
+// }
+// setTimeout(hello,2000)//timeout 
