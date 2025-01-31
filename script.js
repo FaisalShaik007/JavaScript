@@ -302,10 +302,10 @@ console.log("third");
 
 
 
-// set Timeout function & async
-// function hello() {
-//     console.log("hello");
+set Timeout function & async
+function hello() {
+    console.log("hello");
 
     
-// }
-// setTimeout(hello,2000)//timeout 
+}
+setTimeout(hello,2000)//timeout 
