@@ -309,3 +309,18 @@ function hello() {
     
 }
 setTimeout(hello,2000)//timeout 
+
+
+
+//calculator
+// funtion sum(a,b){
+//     console.log("a+b");
+
+    
+// }
+// funtion calculator(a,b, sumcallback){
+//     sumcallback(a,b);
+
+// }
+
+// calculator(1,2,sum);
