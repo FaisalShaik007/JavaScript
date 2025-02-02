@@ -324,3 +324,16 @@ funtion calculator(a,b, sumcallback){
 }
 
 calculator(1,2,sum);
+
+calculator
+funtion sum(a,b){
+    console.log("a+b");
+
+    
+}
+funtion calculator(a,b, sumcallback){
+    sumcallback(a,b);
+
+}
+
+calculator(1,2,sum);
