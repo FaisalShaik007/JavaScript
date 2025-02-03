@@ -323,6 +323,7 @@ funtion calculator(a,b, sumcallback){
 
 }
 
-calculator(1,2,sum)
+calculator(1,2,sum);
+
 
 
