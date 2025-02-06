@@ -311,19 +311,19 @@ function hello() {
 setTimeout(hello,2000)//timeout 
 
 
-
-calculator
-funtion sum(a,b){
-    console.log("a+b");
-
+// nesting 
+let age = 19;
+if (age >=18);{
+    if (age >= 60){
+        console.log("senior");
+        }else {
+            console.log("middle");
+            
+        }
+}       else{
+    console.log("child ");
     
 }
-funtion calculator(a,b, sumcallback){
-    sumcallback(a,b);
-
-}
-
-calculator(1,2,sum);
 
 
 
