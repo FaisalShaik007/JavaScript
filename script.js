@@ -342,7 +342,7 @@ getData(1,()=>{
 
 
 
-// // Promise chain 
+// Promise chain 
 
 // function getData(dataId){
 //     return new Promise((reslove, reject)=>{
