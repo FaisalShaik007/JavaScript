@@ -342,16 +342,16 @@ getData(1,()=>{
 
 
 
-// Promise chain 
+Promise chain 
 
-// function getData(dataId){
-//     return new Promise((reslove, reject)=>{
-//         setTimeout(() => {
-//             console.log("data",dataId);
-//             reslove("success");    
-//         }, 3000);
+function getData(dataId){
+    return new Promise((reslove, reject)=>{
+        setTimeout(() => {
+            console.log("data",dataId);
+            reslove("success");    
+        }, 3000);
 
-//     });
-// }
+    });
+}
 
 
