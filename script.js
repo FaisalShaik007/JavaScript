@@ -355,3 +355,15 @@ function getData(dataId){
 }
 
 
+
+// // promise chain 
+// getData(1).then((res) => {
+//     console.log(res);
+//     getData(2).then(()=> {
+//         console.log(res);
+        
+//     });
+    
+// });
+
+
