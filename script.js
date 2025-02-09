@@ -367,3 +367,14 @@ getData(1).then((res) => {
 });
 
 
+// Async-await
+// function getData(dataId){
+//     return new Promise((reslove, reject)=>{
+//         setTimeout(() => {
+//             console.log("data",dataId);
+//             reslove("success");    
+//         }, 3000);
+
+//     });
+// }
+
