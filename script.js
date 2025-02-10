@@ -378,3 +378,10 @@ function getData(dataId){
     });
 }
 
+
+// // Async-await
+// async function getAllData() {
+//     await getData(1);
+//     await getData(2);
+//     await getData(3);    
+// }
