@@ -6,7 +6,7 @@ console.log("jawad\tnazish");
 
 template literals giving space between a string 
 
-console.log("fasiavl\nshaik");
+console.log("fasial\nshaik");
 
 console.log("jawad\tnazish");
 
